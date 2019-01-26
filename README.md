@@ -1,2 +1,2 @@
-# pp-ilmenau-uebungsblatt1
-Loesunf fuer die Erste Uebungsblatt
+# Programmierparadigmen TU Ilmenau
+Loesung fuer die Uebngsblaetter des Schaefers Teils
